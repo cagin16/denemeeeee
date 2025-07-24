@@ -1,10 +1,30 @@
 [
   {
     "ad": "Notepad++",
-    "aciklama": "Gelişmiş metin düzenleyici.",
+    "aciklama": "Gelişmiş metin düzenleyici. Hafif ve güçlü bir kod/metin editörüdür.",
     "parcalar": [
       "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.x64.exe"
     ],
-    "tip": "exe"
+    "tip": "exe",
+    "gorseller": [
+      "https://notepad-plus-plus.org/images/npp_logo.png",
+      "https://notepad-plus-plus.org/assets/images/screenshot_8.4.png"
+    ],
+    "calistir_exe": "notepad++.exe"
+  },
+  {
+    "ad": "Papers, Please",
+    "aciklama": "Bir sınır kontrol memuru olarak belgeleri inceleyin. Glory to Arstotzka!",
+    "parcalar": [
+      "https://gamebuild.launcher.xsolla.com/17884/full_games/full_game_/full_game_f1c0f49768140eca311521829c4fdc96_.7z.001"
+    ],
+    "tip": "7z",
+    "gorseller": [
+      "https://upload.wikimedia.org/wikipedia/en/3/30/Papers%2C_Please_cover_art.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/239030/ss_e1e57c6b225ce834ac676e736a43878b2098b965.1920x1080.jpg"
+    ],
+    "calistir_exe": "PapersPlease.exe"
+    // Bu, oyunun içindeki asıl .exe dosyasının adıdır. Doğru olduğundan emin olun.
+    // .7z'den çıktıktan sonra oluşan ana oyun klasörünün içinde bulunmalıdır.
   }
 ]
