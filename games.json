@@ -24,7 +24,5 @@
       "https://cdn.akamai.steamstatic.com/steam/apps/239030/ss_e1e57c6b225ce834ac676e736a43878b2098b965.1920x1080.jpg"
     ],
     "calistir_exe": "PapersPlease.exe"
-    // Bu, oyunun içindeki asıl .exe dosyasının adıdır. Doğru olduğundan emin olun.
-    // .7z'den çıktıktan sonra oluşan ana oyun klasörünün içinde bulunmalıdır.
   }
 ]
